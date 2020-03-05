@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "IronMan",
+        "image": "images/IronMan.jpg"
+    },
+    {
+        "id": 2,
+        "name": "TheHulk",
+        "image": "images/Hulk-Android-Wallpaper.png"
+    },{
+        "id": 3,
+        "name": "CaptainAmerica",
+        "image": "images/CaptainAmerica.jpg"
+    },{
+        "id": 4,
+        "name": "BlackWidow",
+        "image": "images/BlackWidow.jpg"
+    },{
+        "id": 5,
+        "name": "Thor",
+        "image": "images/TheThor.jpg"
+    },{
+        "id": 6,
+        "name": "Thanos",
+        "image": "images/thanos_3.jpg"
+    },{
+        "id": 7,
+        "name": "AntMan",
+        "image": "images/AntMan01.jpg"
+    },{
+        "id": 8,
+        "name": "BlackPanther",
+        "image": "images/blackpantherinfinitywar.png"
+    },{
+        "id": 9,
+        "name": "Gamora",
+        "image": "images/gamora-101718.jpg"
+    },{
+        "id": 10,
+        "name": "Drax",
+        "image": "images/draxthedestroyerinfinitywar_9.png"
+    },{
+        "id": 11,
+        "name": "RocketRacoon",
+        "image": "images/rocketraccoonendgame.png"
+    },{
+        "id": 12,
+        "name": "Star-Lord",
+        "image": "images/starlordinfinitywar.png"
+    }
+]
